@@ -34,6 +34,6 @@ header.controller("taskList", function($scope){
 header.run(function($rootScope) {
   $rootScope.master=[{
   'taskName': "Hello",
-  'taskDueDate': "Priya"
+  'taskDueDate': "Ken"
   }];
 });
